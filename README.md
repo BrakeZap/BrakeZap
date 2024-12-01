@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**BrakeZap/BrakeZap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kyle Smith**, a 23-year-old freelance Java developer from California.  
+Beyond programming, I have a passion for programming language theory and design.  
 
-Here are some ideas to get you started:
+In my free time, you'll often find me:  
+- Creating **Minecraft plugins/mods**  
+- Exploring **new programming languages**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately, my favorite has been [**Odin**](https://odin-lang.org/)!
+
+---
+
+## 💼 Experience  
+- 🎓 **University of California, Santa Cruz** – Computer Science Graduate  
+- 🕐 **5 years** of Java programming experience  
+- 🛠️ **2 years** of Minecraft plugin development  
+
+---
+
+## 🛠️ Skills  
+- Proficient in **Paper/Spigot Plugin Development**  
+- Knowledgeable in:  
+  - **Java**  
+  - **C/C++**  
+  - **Python**  
+  - **JavaScript**  
+- ❄️ **Skiing**! 🎿  
+
+---
+
+Thank you for checking out my profile! Feel free to connect or reach out.
+
+
+

@@ -1,7 +1,7 @@
 # Hi there! 👋  
 
 I'm **Kyle Smith**, a 23-year-old freelance Java developer from California.  
-Beyond programming, I have a passion for programming language theory and design.  
+Beyond programming, I have a passion for language theory and design.  
 
 In my free time, you'll often find me:  
 - Creating **Minecraft plugins/mods**  

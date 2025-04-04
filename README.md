@@ -1,4 +1,4 @@
-# Hi there! 👋  
+# Hi there!
 
 I'm **Kyle Smith**, a 24-year-old freelance Java developer from California.  
 Beyond programming, I have a passion for language theory and design.  
@@ -29,7 +29,7 @@ Lately, my favorite has been [**Odin**](https://odin-lang.org/)!
 
 ---
 
-Thank you for checking out my profile! Feel free to connect or reach out.
+Thank you for checking out my profile!
 
 
 

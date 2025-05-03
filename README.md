@@ -7,7 +7,7 @@ In my free time, you'll often find me:
 - Creating **Minecraft plugins/mods**  
 - Exploring **new programming languages**  
 
-Lately, my favorite has been [**Odin**](https://odin-lang.org/)!
+Lately, my favorite has been [**Gleam**](https://gleam.run/)
 
 ---
 

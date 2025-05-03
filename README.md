@@ -9,6 +9,8 @@ In my free time, you'll often find me:
 
 Lately, my favorite has been [**Gleam**](https://gleam.run/)
 
+<img src="https://gleam.run/images/lucy/lucy.svg" width=20% height=20%>
+
 ---
 
 ## Experience  

@@ -7,9 +7,9 @@ In my free time, you'll often find me:
 - Creating **Minecraft plugins/mods**  
 - Exploring **new programming languages**  
 
-Lately, my favorite has been [**Gleam**](https://gleam.run/)
+Lately, my favorite has been [**V**](https://vlang.io/)
 
-<img src="https://gleam.run/images/lucy/lucy.svg" width=20% height=20%>
+<img height="90%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Veasel.svg/2560px-Veasel.svg.png">
 
 ---
 

@@ -4,7 +4,7 @@ I'm **Kyle Smith**, a 25-year-old computer science graduate from California.
 In addition to programming, I have a passion for language theory and design.  
 
 In my free time, you'll often find me:
-- Exploring **new programming languages**  
+- Exploring new programming languages
 
 Lately, my favorite has been [**Odin**]([(https://odin-lang.org/)])
 
